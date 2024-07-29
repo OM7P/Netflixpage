@@ -1,0 +1,33 @@
+
+
+
+
+@media (max-width:380px){
+
+    .texttmedis{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .texttmedis  h1{
+        display: flex;
+        flex-wrap: wrap;
+        background-color: yellowgreen;
+        flex-direction: column;
+        font-size: 30px;
+        
+        
+    }
+    .texttmedis h3{
+        display: flex;
+        flex-wrap: wrap;
+        background-color: violet;
+        font-size: 20px;
+    }
+    
+    .imagesstyle img{
+        display: flex;
+        flex-wrap: wrap;
+        /* width: 400px; */
+
+    }
+}

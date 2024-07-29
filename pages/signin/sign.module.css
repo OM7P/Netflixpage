@@ -1,0 +1,15 @@
+
+
+
+.MainBgimg{
+    background-image: url("/entfilix back-image.jpg");
+    width: 100%;
+    height: 100vh;
+    background-position:top;
+    background-size:cover;
+    box-shadow: inset 0 0 0 100vh rgb(0, 0, 10,.6);
+
+
+
+}
+
